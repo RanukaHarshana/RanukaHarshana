@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is **Ranuka**!
 #### *I Am An Undergraduate Student*
-![*I Am An Undergraduate Student*](https://raw.githubusercontent.com/AshenWijesingha/AshenWijesingha/main/gif1.gif)
+![*I Am An Undergraduate Student*](https://raw.githubusercontent.com/RanukaHarshana/RanukaHarshana/main/1.gif)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
