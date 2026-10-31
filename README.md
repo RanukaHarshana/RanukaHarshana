@@ -63,23 +63,12 @@ $ coffee --refill
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RanukaHarshana&show_icons=true&theme=radical&hide_border=true&bg_color=0b0f19" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanukaHarshana&layout=compact&theme=radical&hide_border=true&bg_color=0b0f19" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanukaHarshana&theme=radical&hide_border=true&background=0b0f19" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RanukaHarshana&theme=radical&hide_border=true&background=0b0f19" alt="Streak" />
 </p>
 
 ## Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RanukaHarshana&bg_color=0b0f19&color=fa4616&line=fa4616&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
-
 <img src="https://raw.githubusercontent.com/RanukaHarshana/RanukaHarshana/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-
-## Badges
-
-[![@ranukaharshana's Holopin board](https://holopin.io/api/user/board?user=ranukaharshana)](https://holopin.io/@ranukaharshana)
 
 ## Let's connect
 
