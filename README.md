@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:1a0f0a,60:7a2a0e,100:fa4616&text=Ranuka%20Harshana&fontColor=ffffff&fontSize=54&fontAlignY=42&desc=Associate%20Software%20Engineer%20%C2%B7%20RPA%20Developer&descSize=18&descAlignY=62&animation=fadeIn" alt="Ranuka Harshana" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FA4616&center=true&vCenter=true&width=640&lines=Automating+the+boring+stuff;Building+bots+with+UiPath+%26+Python;If+you+do+it+twice%2C+automate+it" alt="Typing intro" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FA4616&center=true&vCenter=true&width=640&lines=Automating+the+boring+stuff;Building+bots+with+UiPath+%26+Python;If+you+do+it+twice%2C+automate+it" alt="Typing intro" /></p>
 
-<img src="assets/robot.svg" width="120" alt="Animated robot" />
+<p align="center"><img src="assets/robot.svg" width="120" alt="Animated robot" /></p>
 
 <br/>
 
