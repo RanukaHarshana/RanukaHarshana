@@ -32,9 +32,9 @@ class Ranuka:
 
 ## How my bots work
 
-`Trigger` → `Collect` → `Process` → `Act` → `Report`
-
-Schedule or queue item starts the run, data is read from apps, files and APIs, Python cleans and validates it, the robot updates the target systems, and results and exceptions are logged.
+<p align="center">
+  <img src="assets/pipeline.svg" width="100%" alt="How my bots work: Trigger, Collect, Process, Act, Report" />
+</p>
 
 ## Tech stack
 
@@ -44,7 +44,7 @@ Schedule or queue item starts the run, data is read from apps, files and APIs, P
 <img src="https://img.shields.io/badge/REFramework-FA4616?style=flat-square&logo=uipath&logoColor=white" />
 
 **Languages**&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=py,js,c,cpp,mysql&theme=dark" alt="Python, JavaScript, C, C++, SQL" />
+<img src="https://skillicons.dev/icons?i=py,js&theme=dark" alt="Python, JavaScript" />
 <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="VB.NET" />
 
 **Learning: DevOps ecosystem**&nbsp;&nbsp;
@@ -52,13 +52,9 @@ Schedule or queue item starts the run, data is read from apps, files and APIs, P
 
 ## Latest bot run
 
-```log
-[09:00:01] INFO  Robot started - process: daily_report
-[09:00:04] INFO  Fetched 1,248 queue items
-[09:03:42] INFO  Processed 1,248 / 1,248 items
-[09:03:43] OK    0 exceptions - report sent
-$ coffee --refill
-```
+<p align="center">
+  <img src="assets/botrun.svg" width="100%" alt="Latest bot run: terminal log of a daily report process" />
+</p>
 
 ## GitHub stats
 

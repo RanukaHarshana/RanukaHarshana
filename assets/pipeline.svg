@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="190" viewBox="0 0 920 190" font-family="'Segoe UI', Arial, sans-serif">
+  <style>
+    .card { fill: #111827; stroke: #263041; stroke-width: 1.5 }
+    .glow { fill: rgba(250,70,22,0.10); stroke: #fa4616; stroke-width: 2; opacity: 0 }
+    .num { font-family: Consolas, 'Courier New', monospace; font-size: 13px; font-weight: 700; fill: #fa4616 }
+    .title { font-size: 19px; font-weight: 700; fill: #ffffff }
+    .desc { font-size: 12px; fill: #9aa4b2 }
+    .flow { stroke: #fa4616; stroke-width: 2.5; stroke-linecap: round; stroke-dasharray: 5 7; animation: dash 0.9s linear infinite }
+    .head { fill: #fa4616 }
+    .g1 { animation: act 5s infinite }
+    .g2 { animation: act 5s infinite 1s }
+    .g3 { animation: act 5s infinite 2s }
+    .g4 { animation: act 5s infinite 3s }
+    .g5 { animation: act 5s infinite 4s }
+    @keyframes act { 0% { opacity: 0 } 6%, 18% { opacity: 1 } 28%, 100% { opacity: 0 } }
+    @keyframes dash { to { stroke-dashoffset: -12 } }
+  </style>
+  <rect width="920" height="190" rx="18" fill="#0b0f19"/>
+
+  <g>
+    <rect class="card" x="20" y="30" width="140" height="130" rx="14"/>
+    <rect class="glow g1" x="20" y="30" width="140" height="130" rx="14"/>
+    <text class="num" x="38" y="58">01</text>
+    <text class="title" x="38" y="92">Trigger</text>
+    <text class="desc" x="38" y="116">Schedule or queue</text>
+    <text class="desc" x="38" y="133">starts the run</text>
+  </g>
+  <line class="flow" x1="166" y1="95" x2="198" y2="95"/><polygon class="head" points="200,95 192,90 192,100"/>
+
+  <g>
+    <rect class="card" x="205" y="30" width="140" height="130" rx="14"/>
+    <rect class="glow g2" x="205" y="30" width="140" height="130" rx="14"/>
+    <text class="num" x="223" y="58">02</text>
+    <text class="title" x="223" y="92">Collect</text>
+    <text class="desc" x="223" y="116">Read data from apps,</text>
+    <text class="desc" x="223" y="133">files and APIs</text>
+  </g>
+  <line class="flow" x1="351" y1="95" x2="383" y2="95"/><polygon class="head" points="385,95 377,90 377,100"/>
+
+  <g>
+    <rect class="card" x="390" y="30" width="140" height="130" rx="14"/>
+    <rect class="glow g3" x="390" y="30" width="140" height="130" rx="14"/>
+    <text class="num" x="408" y="58">03</text>
+    <text class="title" x="408" y="92">Process</text>
+    <text class="desc" x="408" y="116">Python cleans and</text>
+    <text class="desc" x="408" y="133">validates the data</text>
+  </g>
+  <line class="flow" x1="536" y1="95" x2="568" y2="95"/><polygon class="head" points="570,95 562,90 562,100"/>
+
+  <g>
+    <rect class="card" x="575" y="30" width="140" height="130" rx="14"/>
+    <rect class="glow g4" x="575" y="30" width="140" height="130" rx="14"/>
+    <text class="num" x="593" y="58">04</text>
+    <text class="title" x="593" y="92">Act</text>
+    <text class="desc" x="593" y="116">Click, type and</text>
+    <text class="desc" x="593" y="133">update systems</text>
+  </g>
+  <line class="flow" x1="721" y1="95" x2="753" y2="95"/><polygon class="head" points="755,95 747,90 747,100"/>
+
+  <g>
+    <rect class="card" x="760" y="30" width="140" height="130" rx="14"/>
+    <rect class="glow g5" x="760" y="30" width="140" height="130" rx="14"/>
+    <text class="num" x="778" y="58">05</text>
+    <text class="title" x="778" y="92">Report</text>
+    <text class="desc" x="778" y="116">Log results, alert</text>
+    <text class="desc" x="778" y="133">on exceptions</text>
+  </g>
+</svg>
